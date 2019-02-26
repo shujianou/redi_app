@@ -1,0 +1,45 @@
+<template>
+	<view class="s-page-wrapper">
+		<view class="s-page">
+			<view class="has-mgtb-10 has-pdlr-20">
+				<view class="is-h1">谁的青春不迷茫，一个奋斗小青年的逆袭人生</view>
+				<view class="has-mgt-15 has-mgb-30 has-desc-color is-size-14 ">
+					<span class="has-mgr-5">刘同</span>
+					<span>2018-09-13</span>
+				</view>
+				<view class="is-p">
+					我叫刘同。现在住在北京四环旁边一个叫沿海赛洛城的楼盘里。七年前也曾经幻想以写字为生。但无奈学识有限，北京太大，我写出来的那些字都不够成为我容身的砖瓦城墙。还好，我生性贫贱，嘴贫性格贱，从不抱怨自己的遭遇，所以投身传媒这一行，至今。
+				</view>
+				<view class="is-p">
+					以前我是城市旅人，为工作奔走城市间；后来他们叫我职场达人，为生活奔走于工作。
+				</view>
+				<view class="is-p">
+					现在，我和你一样。依然在路上。
+				</view>
+				<view class="is-p">
+					“我曾谈过一段恋爱，分手理由是因为我不够有钱。后来我拼命赚钱，却再也没有遇见过那个人。
+
+					我曾被同事排挤，因为我不懂规矩。后来我懂了规矩，但再也不会用这个理由去刁难新同事。
+
+					我一直和父母抗争，因为他们一直觉得我不那么好。后来我过得越来越好，我才知道他们只是怕我一个人过得不好。
+
+					这些年，我一直在试着了解：了解这个世界，了解更完整的自己。”
+				</view>
+			</view>
+		</view>
+	</view>
+</template>
+
+<script>
+	export default {
+		data() {
+			return {
+
+			};
+		}
+	}
+</script>
+
+<style>
+
+</style>

@@ -1,0 +1,1 @@
+<template name="225738a5"><view class="_view 225738a5"><view class="_view 225738a5 uni-common-mt"><view class="_view 225738a5"><map latitude="{{latitude}}" longitude="{{longitude}}" markers="{{markers}}" polyline="{{polyline}}" class="_map 225738a5"><cover-view class="_cover-view 225738a5 test">我是测试的</cover-view></map></view></view></view></template>

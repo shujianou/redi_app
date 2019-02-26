@@ -1,0 +1,15 @@
+<import src="/components/simple-pro/alert.vue.wxml" />
+<import src="/components/simple-pro/dialog.vue.wxml" />
+<import src="/components/simple-pro/customModal.vue.wxml" />
+<import src="/components/simple-pro/dialog-loading.vue.wxml" />
+<import src="/components/uni-list/uni-list/uni-list.vue.wxml" />
+<import src="/components/uni-list/uni-list-item/uni-list-item.vue.wxml" />
+
+<template name="51536c18-default-51536c18-3"><view class="_view 51536c18 bg-img"><image src="../../static/img/demo/pexels-photo-26180.jpg" style="height: 200px;" class="_image 51536c18 is-response"></image></view></template>
+
+<template name="51536c18-default-51536c18-4"><view class="_view 51536c18 has-pd-20">Modal 内容</view></template>
+
+<template name="167bfd09-default-167bfd09-4"><template title="通用" data="{{...$root['0'], ...$root[$kk+'167bfd09-0'],$root}}" is="0064d5a5"></template><template title="账号安全" bindtap="handleProxy" data-eventid="{{'167bfd09-0'}}" data-comkey="{{$k}}" data="{{...$root['0'], ...$root[$kk+'167bfd09-1'],$root}}" is="0064d5a5"></template><template title="问题反馈" data="{{...$root['0'], ...$root[$kk+'167bfd09-2'],$root}}" is="0064d5a5"></template><template title="关于娃娃到家" data="{{...$root['0'], ...$root[$kk+'167bfd09-3'],$root}}" is="0064d5a5"></template></template>
+
+<template name="297023a9-default-297023a9-4"><template title="会员名" show-arrow="false" show-text="true" data="{{...$root['0'], ...$root[$kk+'297023a9-0'],$root}}" is="0064d5a5"></template><template title="修改手机号" show-text="true" data="{{...$root['0'], ...$root[$kk+'297023a9-1'],$root}}" is="0064d5a5"></template><template title="修改登录密码" data="{{...$root['0'], ...$root[$kk+'297023a9-2'],$root}}" is="0064d5a5"></template><template title="注销账号" data="{{...$root['0'], ...$root[$kk+'297023a9-3'],$root}}" is="0064d5a5"></template></template>
+

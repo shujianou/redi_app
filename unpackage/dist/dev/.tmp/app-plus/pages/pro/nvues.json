@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "5+画布测试",
+  "bounce": "none",
+  "buttons": [
+    {
+      "type": "share"
+    }
+  ]
+}

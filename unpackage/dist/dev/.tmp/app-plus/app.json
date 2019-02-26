@@ -1,0 +1,76 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/error/error",
+    "pages/error/errordesc",
+    "pages/error/info",
+    "pages/error/select",
+    "pages/content/content",
+    "pages/goods/goods",
+    "pages/goods/grids",
+    "pages/ucenter/index",
+    "pages/ucenter/login",
+    "pages/ucenter/register",
+    "pages/pro/action-sheet",
+    "pages/pro/alert",
+    "pages/pro/nvues",
+    "pages/component/swiper",
+    "pages/cart/cart",
+    "pages/say/say",
+    "pages/chat/chat",
+    "pages/test/map",
+    "pages/settings/settings",
+    "pages/settings/security-setting"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8",
+    "bounce": "none"
+  },
+  "usingComponents": {},
+  "tabBar": {
+    "color": "#aaa",
+    "selectedColor": "#FFBD27",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "static/img/footer/footer-home.png",
+        "selectedIconPath": "static/img/footer/footer-home-act.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/chat/chat",
+        "iconPath": "static/img/footer/footer-msg.png",
+        "selectedIconPath": "static/img/footer/footer-msg-act.png",
+        "text": "消息"
+      },
+      {
+        "pagePath": "pages/say/say",
+        "iconPath": "static/img/footer/footer-say-act.png",
+        "selectedIconPath": "static/img/footer/footer-say-act.png",
+        "text": "调侃一下"
+      },
+      {
+        "pagePath": "pages/cart/cart",
+        "iconPath": "static/img/footer/footer-cart.png",
+        "selectedIconPath": "static/img/footer/footer-cart-act.png",
+        "text": "购物车"
+      },
+      {
+        "pagePath": "pages/ucenter/index",
+        "iconPath": "static/img/footer/footer-me.png",
+        "selectedIconPath": "static/img/footer/footer-me-act.png",
+        "text": "我的"
+      }
+    ]
+  },
+  "splashscreen": {
+    "autoclose": true
+  },
+  "appname": "娃娃到家"
+}

@@ -1,0 +1,1 @@
+<template name="58d11c94"><view class="_view 58d11c94"><view class="_view 58d11c94 simple-load load-modal" wx:if="{{showLoading}}"><image src="{{image}}" class="_image 58d11c94 png" mode="aspectFit"></image><view class="_view 58d11c94 has-desc-color">{{text}}</view></view></view></template>

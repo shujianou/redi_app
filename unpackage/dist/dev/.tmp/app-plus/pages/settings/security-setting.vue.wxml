@@ -1,0 +1,1 @@
+<import src="/components/uni-list/uni-list/uni-list.vue.wxml" /><import src="/components/uni-list/uni-list-item/uni-list-item.vue.wxml" /><template name="297023a9"><view class="_view 297023a9"><template data="{{...$root['0'], ...$root[$kk+'297023a9-4'],$root, $slotdefault:'297023a9-default-297023a9-4'}}" is="295fc48e"></template></view></template>

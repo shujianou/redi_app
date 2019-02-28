@@ -6,8 +6,6 @@
 
 3.运行项目(运行-运行到浏览器)
 
-![Image text](https://raw.githubusercontent.com/hongmaju/light7Local/master/img/productShow/20170518152848.png)
+![Image text](https://raw.githubusercontent.com/irany666/redi_app/master/static/img/demo/1.png)
 
-![Image text](https://raw.githubusercontent.com/hongmaju/light7Local/master/img/productShow/20170518152848.png)
-
-![Image text](https://raw.githubusercontent.com/hongmaju/light7Local/master/img/productShow/20170518152848.png)
+![Image text](https://github.com/irany666/redi_app/raw/master/static/img/demo/2.png)
